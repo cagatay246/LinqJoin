@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cagat\\source\\repos\\ConsoleApp15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3651B669-BC0B-4225-A85F-8B7B53F4827C}|ConsoleApp15\\ConsoleApp15.csproj|c:\\users\\cagat\\source\\repos\\consoleapp15\\consoleapp15\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3651B669-BC0B-4225-A85F-8B7B53F4827C}|ConsoleApp15\\ConsoleApp15.csproj|solutionrelative:consoleapp15\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3651B669-BC0B-4225-A85F-8B7B53F4827C}|ConsoleApp15\\ConsoleApp15.csproj|c:\\users\\cagat\\source\\repos\\consoleapp15\\consoleapp15\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3651B669-BC0B-4225-A85F-8B7B53F4827C}|ConsoleApp15\\ConsoleApp15.csproj|solutionrelative:consoleapp15\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3651B669-BC0B-4225-A85F-8B7B53F4827C}|ConsoleApp15\\ConsoleApp15.csproj|c:\\users\\cagat\\source\\repos\\consoleapp15\\consoleapp15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3651B669-BC0B-4225-A85F-8B7B53F4827C}|ConsoleApp15\\ConsoleApp15.csproj|solutionrelative:consoleapp15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\cagat\\source\\repos\\ConsoleApp15\\ConsoleApp15\\Book.cs",
+              "RelativeDocumentMoniker": "ConsoleApp15\\Book.cs",
+              "ToolTip": "C:\\Users\\cagat\\source\\repos\\ConsoleApp15\\ConsoleApp15\\Book.cs",
+              "RelativeToolTip": "ConsoleApp15\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T23:14:41.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\cagat\\source\\repos\\ConsoleApp15\\ConsoleApp15\\Author.cs",
+              "RelativeDocumentMoniker": "ConsoleApp15\\Author.cs",
+              "ToolTip": "C:\\Users\\cagat\\source\\repos\\ConsoleApp15\\ConsoleApp15\\Author.cs",
+              "RelativeToolTip": "ConsoleApp15\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T23:14:04.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cagat\\source\\repos\\ConsoleApp15\\ConsoleApp15\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp15\\Program.cs",
+              "ToolTip": "C:\\Users\\cagat\\source\\repos\\ConsoleApp15\\ConsoleApp15\\Program.cs",
+              "RelativeToolTip": "ConsoleApp15\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T23:13:15.761Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
